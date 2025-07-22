@@ -19,7 +19,7 @@
 
 ### 🍎 What I'm Doing Right Now
 
-- ✅ **100 Days of Swift** → `Completed ✅`
+- ✅ **100 Days of Swift** → `In Progress `
 - ✅ Weekly App Devs → `2/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `In Progress`
 - ✅ LeetCode Prep → `Starting from July 22, 2025`
