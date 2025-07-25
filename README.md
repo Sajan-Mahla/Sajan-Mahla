@@ -33,6 +33,8 @@
 |----------------|----------------------------------------------------------|------------|
 | 🔹 Quote App    | API-based Quote fetcher with UNDO, COPY, NEXT features   | ✅ Done     |
 | 🔹 CalcMate     | Calculator + Currency + BMI + Age counter                | ✅ Done     |
+| 🔹 WeSplit      |Tip splitter from 2 to 99 people                          | ✅ Done     |
+| 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
 | 🔜 App #3       | Launching Sunday                                         | 🚧 Building |
 
 ---
@@ -40,7 +42,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [##                  ] 18%
-+ Weekly iOS App Builds   [##------------------] 2 / 52
-+ Async Engineering       [#####---------------] 6 / 15 Days
++ 100 Days of Swift       [##                  ] 21%
++ Weekly iOS App Builds   [##------------------] 4 / 52
++ Async Engineering       [####---------------] 1 / 7 Days
 + LeetCode Prep           [--------------------] Starting soon
