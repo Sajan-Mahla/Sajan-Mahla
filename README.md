@@ -10,10 +10,10 @@
 ### 💼 Who Am I?
 
 - 🧠 CS Undergrad | iOS Dev | Dreaming Bold  
-- 💥 Building **52 iOS Apps** – One every Sunday  
-- 👨‍👩‍👦 Doing this for my **Mom**, my **Future**, and to silence all “placement nahi milega” folks  
+- 💥 Building **52 iOS Apps**  
+- 👨‍👩‍👦 Doing this for my **Mom**, my **Future**, and to silence all “Can't get APPLE” folks  
 - 🚀 Target: **Apple Interview Ready before Feb 2026**  
-- 🎯 Goal: 50+ LPA offer, not for show-off, but **self-worth & family pride**
+- 🎯 Goal: iOS DEV. Engineer at APPLE by 2026, **self-worth & family pride**
 
 ---
 
@@ -35,7 +35,8 @@
 | 🔹 CalcMate     | Calculator + Currency + BMI + Age counter                | ✅ Done     |
 | 🔹 WeSplit      |Tip splitter from 2 to 99 people                          | ✅ Done     |
 | 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
-| 🔜 App #3       | Launching Sunday                                         | 🚧 Building |
+| 🔹 Gtf          | Launching Soon                                           | 🚧 Building |
+| 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 ---
 
