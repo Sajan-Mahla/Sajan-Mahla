@@ -42,7 +42,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [##                  ] 21%
++ 100 Days of Swift       [###                 ] 22%
 + Weekly iOS App Builds   [##------------------] 4 / 52
-+ Async Engineering       [####---------------] 1 / 7 Days
++ Async Engineering       [######--------------] 2 / 7 Days
 + LeetCode Prep           [--------------------] Starting soon
