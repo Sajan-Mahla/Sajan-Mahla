@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ Weekly App Devs → `2/52 Apps done!`
+- ✅ App Built → `4/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `In Progress`
 - ✅ LeetCode Prep → `Starting from July 22, 2025`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
