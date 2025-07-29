@@ -35,7 +35,7 @@
 | 🔹 CalcMate     | Calculator + Currency + BMI + Age counter                | ✅ Done     |
 | 🔹 WeSplit      |Tip splitter from 2 to 99 people                          | ✅ Done     |
 | 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
-| 🔹 Gtf          | Launching Soon                                           | 🚧 Building |
+| 🔹 Gtf          | game of flags                                            | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 ---
