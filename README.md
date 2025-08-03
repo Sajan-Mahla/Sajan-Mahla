@@ -20,14 +20,14 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `4/52 Apps done!`
+- ✅ App Built → `6/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `In Progress`
-- ✅ LeetCode Prep → `Starting from July 22, 2025`
+- ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
 
 ---
 
-### 🧠 Projects I'm Building
+### 🧠 Projects I'm Building and built
 
 | Project        | Description                                              | Status     |
 |----------------|----------------------------------------------------------|------------|
@@ -36,14 +36,19 @@
 | 🔹 WeSplit      |Tip splitter from 2 to 99 people                          | ✅ Done     |
 | 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
 | 🔹 Gtf          | game of flags                                            | ✅ Done     |
+| 🔹 Weatherapp   | weather fetch by API                                     | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
+🔹 :- DONE
+🛑 :- IN PROGRESS
 ---
 
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [###                 ] 22%
-+ Weekly iOS App Builds   [##------------------] 4 / 52
-+ Async Engineering       [######--------------] 2 / 7 Days
-+ LeetCode Prep           [--------------------] Starting soon
++ 100 Days of Swift       [#####               ] 30%
++ Weekly iOS App Builds   [###-----------------] 6 / 52
++ Async Engineering       [####################] 7 / 7 Days
++ Protocol-Oriented Prog. [####################] 7 / 7 Days
++ TypeScript Engineering. [##__________________] 1 / 7 Days
++ LeetCode Prep           [#------------------] 1 / 20 Patterns
