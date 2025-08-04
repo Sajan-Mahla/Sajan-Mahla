@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `6/52 Apps done!`
+- ✅ App Built → `7/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `In Progress`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -37,6 +37,7 @@
 | 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
 | 🔹 Gtf          | game of flags                                            | ✅ Done     |
 | 🔹 Weatherapp   | weather fetch by API                                     | ✅ Done     |
+| 🔹 BetterRest   | Sleep time app                                           | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -46,8 +47,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#####               ] 30%
-+ Weekly iOS App Builds   [###-----------------] 6 / 52
++ 100 Days of Swift       [#####               ] 31%
++ Weekly iOS App Builds   [###-----------------] 7 / 52
 + Async Engineering       [####################] 7 / 7 Days
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [##__________________] 1 / 7 Days
