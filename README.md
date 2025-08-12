@@ -37,8 +37,9 @@
 | 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
 | 🔹 Gtf          | game of flags                                            | ✅ Done     |
 | 🔹 Weatherapp   | weather fetch by API                                     | ✅ Done     |
-| 🔹 BetterRest   | Sleep time app                                           | ✅ Done     |
+| 🔹 BetterRest   | Sleep time app with core ML                              | ✅ Done     |
 | 🔹 WS           | wordScrable                                              | ✅ Done     |
+| 🔹 DictFict     | Dictinory which fetch data from APi                      | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -48,9 +49,9 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#####               ] 34%
-+ iOS App Builds          [###-----------------] 8 / 52
++ 100 Days of Swift       [######--------------] 39%
++ iOS App Builds          [###-----------------] 9 / 52
 + Async Engineering       [####################] 7 / 7 Days
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [####################] 7 / 7 Days
-+ LeetCode Prep           [#------------------] 1 / 20 Patterns
++ LeetCode Prep           [#-------------------] 1 / 20 Patterns
