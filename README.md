@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `8/52 Apps done!`
+- ✅ App Built → `10/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Donne`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -40,6 +40,7 @@
 | 🔹 BetterRest   | Sleep time app with core ML                              | ✅ Done     |
 | 🔹 WS           | wordScrable                                              | ✅ Done     |
 | 🔹 DictFict     | Dictinory which fetch data from APi                      | ✅ Done     |
+| 🔹 EduTainment  | Table app for kid EDU + ENTERTAIN                        | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -49,8 +50,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [######--------------] 39%
-+ iOS App Builds          [###-----------------] 9 / 52
++ 100 Days of Swift       [######--------------] 40%
++ iOS App Builds          [###-----------------] 10 / 52
 + Async Engineering       [####################] 7 / 7 Days
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [####################] 7 / 7 Days
