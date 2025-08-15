@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `10/52 Apps done!`
+- ✅ App Built → `11/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Donne`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -38,9 +38,10 @@
 | 🔹 Gtf          | game of flags                                            | ✅ Done     |
 | 🔹 Weatherapp   | weather fetch by API                                     | ✅ Done     |
 | 🔹 BetterRest   | Sleep time app with core ML                              | ✅ Done     |
-| 🔹 WS           | wordScrable                                              | ✅ Done     |
+| 🔹 WS           | wordScrable  game                                        | ✅ Done     |
 | 🔹 DictFict     | Dictinory which fetch data from APi                      | ✅ Done     |
-| 🔹 EduTainment  | Table app for kid EDU + ENTERTAIN                        | ✅ Done     |
+| 🔹 EduTainment  | Table app for kid EDU + ENTERTAINMENT                    | ✅ Done     |
+| 🔹 iExpense     | Expense tracker for both personal and business           | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -50,8 +51,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [######--------------] 40%
-+ iOS App Builds          [###-----------------] 10 / 52
++ 100 Days of Swift       [######--------------] 42%
++ iOS App Builds          [###-----------------] 11 / 52
 + Async Engineering       [####################] 7 / 7 Days
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [####################] 7 / 7 Days
