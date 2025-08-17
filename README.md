@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `11/52 Apps done!`
+- ✅ App Built → `12/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Donne`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -42,6 +42,7 @@
 | 🔹 DictFict     | Dictinory which fetch data from APi                      | ✅ Done     |
 | 🔹 EduTainment  | Table app for kid EDU + ENTERTAINMENT                    | ✅ Done     |
 | 🔹 iExpense     | Expense tracker for both personal and business           | ✅ Done     |
+| 🔹 ToDo         | bro i have to manage 12 apps so ToDo is must             | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -51,8 +52,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [######--------------] 42%
-+ iOS App Builds          [###-----------------] 11 / 52
++ 100 Days of Swift       [#######-------------] 44%
++ iOS App Builds          [###-----------------] 12 / 52
 + Async Engineering       [####################] 7 / 7 Days
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [####################] 7 / 7 Days
