@@ -43,7 +43,7 @@
 | 🔹 EduTainment  | Table app for kid EDU + ENTERTAINMENT                    | ✅ Done     |
 | 🔹 iExpense     | Expense tracker for both personal and business           | ✅ Done     |
 | 🔹 ToDo         | bro i have to manage 12 apps so TODO is must             | ✅ Done     |
-| 🔹 Moonshot     | detail of very appolo missions and their crewMembers     | ✅ Done     |
+| 🔹 Moonshot     | detail of very apollo missions and their crewMembers     | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
