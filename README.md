@@ -59,4 +59,4 @@
 + Protocol-Oriented Prog. [####################] 7 / 7 Days
 + TypeScript Engineering. [####################] 7 / 7 Days
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
-+ JAVASCRPIT JOURNEY      [####----------------] 4 / 25 Days
++ JAVASCRPIT JOURNEY      [####----------------] 5 / 25 Days
