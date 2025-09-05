@@ -56,8 +56,5 @@
 ```diff
 + 100 Days of Swift       [###########---------] 63%
 + iOS App Builds          [###-----------------] 14 / 52 Apps
-+ Async Engineering       [####################] 7 / 7 Days
-+ Protocol-Oriented Prog. [####################] 7 / 7 Days
-+ TypeScript Engineering. [####################] 7 / 7 Days
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
-+ JAVASCRPIT JOURNEY      [####----------------] 6 / 25 Days
++ JAVASCRPIT JOURNEY      [######--------------] 7 / 25 Days
