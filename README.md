@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `13/52 Apps done!`
+- ✅ App Built → `14/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Done`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -54,7 +54,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [###########---------] 63%
++ 100 Days of Swift       [###########---------] 64%
 + iOS App Builds          [###-----------------] 14 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
 + JAVASCRPIT JOURNEY      [######--------------] 7 / 25 Days
