@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `14/52 Apps done!`
+- ✅ App Built → `15/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Done`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -45,6 +45,7 @@
 | 🔹 ToDo         | bro i have to manage 12 apps so TODO is must             | ✅ Done     |
 | 🔹 Moonshot     | detail of very apollo missions and their crewMembers     | ✅ Done     |
 | 🔹 BookWorm     | Read books their Write here                              | ✅ Done     |
+| 🔹 Weather 2.0  | More advance UI with better colors                       | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -54,7 +55,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [###########---------] 64%
-+ iOS App Builds          [###-----------------] 14 / 52 Apps
++ 100 Days of Swift       [###########---------] 65%
++ iOS App Builds          [###-----------------] 15 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
 + JAVASCRPIT JOURNEY      [######--------------] 8 / 25 Days
