@@ -46,6 +46,7 @@
 | 🔹 Moonshot     | detail of very apollo missions and their crewMembers     | ✅ Done     |
 | 🔹 BookWorm     | Read books their Write here                              | ✅ Done     |
 | 🔹 Weather 2.0  | More advance UI with better colors                       | ✅ Done     |
+| 🔹 Swiftdata    | swiftdata project in which i used sorting and filtering  | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -56,6 +57,6 @@
 
 ```diff
 + 100 Days of Swift       [###########---------] 67%
-+ iOS App Builds          [###-----------------] 15 / 52 Apps
++ iOS App Builds          [###-----------------] 16 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
 + JAVASCRPIT JOURNEY      [######--------------] 10 / 25 Days
