@@ -59,4 +59,4 @@
 + 100 Days of Swift       [###########---------] 69 / 100 Days
 + iOS App Builds          [###-----------------] 16 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
-+ JavaScript Journery     [######--------------] 13 / 25 Days
++ JavaScript Journey     [######--------------] 13 / 25 Days
