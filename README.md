@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `17/52 Apps done!`
+- ✅ App Built → `18/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Done`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -33,21 +33,22 @@
 |----------------|----------------------------------------------------------|------------|
 | 🔹 Quote App    | API-based Quote fetcher with UNDO, COPY, NEXT features   | ✅ Done     |
 | 🔹 CalcMate     | Calculator + Currency + BMI + Age counter                | ✅ Done     |
-| 🔹 WeSplit      |Tip splitter from 2 to 99 people                          | ✅ Done     |
-| 🔹 TempSm       |Temp. convert from celsuis to any                         | ✅ Done     |
-| 🔹 Gtf          | game of flags                                            | ✅ Done     |
-| 🔹 Weatherapp   | weather fetch by API                                     | ✅ Done     |
+| 🔹 WeSplit      | Tip splitter from 2 to 99 people                          | ✅ Done     |
+| 🔹 TempSm       | Temp. convert from celsuis to any                         | ✅ Done     |
+| 🔹 Gtf          | Game of flags                                            | ✅ Done     |
+| 🔹 Weatherapp   | Weather fetch by API                                     | ✅ Done     |
 | 🔹 BetterRest   | Sleep time app with core ML                              | ✅ Done     |
-| 🔹 WS           | wordScrable  game                                        | ✅ Done     |
+| 🔹 WS           | WordScrable  game                                        | ✅ Done     |
 | 🔹 DictFict     | Dictinory which fetch data from APi                      | ✅ Done     |
 | 🔹 EduTainment  | Table app for kid EDU + ENTERTAINMENT                    | ✅ Done     |
 | 🔹 iExpense     | Expense tracker for both personal and business           | ✅ Done     |
-| 🔹 ToDo         | bro i have to manage 12 apps so TODO is must             | ✅ Done     |
-| 🔹 Moonshot     | detail of very apollo missions and their crewMembers     | ✅ Done     |
+| 🔹 ToDo         | Bro i have to manage 12 apps so TODO is must             | ✅ Done     |
+| 🔹 Moonshot     | Detail of very apollo missions and their crewMembers     | ✅ Done     |
 | 🔹 BookWorm     | Read books their Write here                              | ✅ Done     |
 | 🔹 Weather 2.0  | More advance UI with better colors                       | ✅ Done     |
-| 🔹 Swiftdata    | swiftdata project in which i used sorting and filtering  | ✅ Done     |
-| 🔹 FocusTime    |you just grind i'll see for your POMODORO                 | ✅ Done     |
+| 🔹 Swiftdata    | Swiftdata project in which i used sorting and filtering  | ✅ Done     |
+| 🔹 FocusTime    | You just grind i'll see for your POMODORO                 | ✅ Done     |
+| 🔹 InstFilter   | Click pictures, ill handle the filters                    | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -58,6 +59,6 @@
 
 ```diff
 + 100 Days of Swift       [#############-------] 75 / 100 Days
-+ iOS App Builds          [###-----------------] 17 / 52 Apps
++ iOS App Builds          [###-----------------] 18 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
 + JavaScript Journey      [######--------------] 19 / 25 Days
