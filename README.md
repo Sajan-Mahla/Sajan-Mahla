@@ -33,8 +33,8 @@
 |----------------|----------------------------------------------------------|------------|
 | 🔹 Quote App    | API-based Quote fetcher with UNDO, COPY, NEXT features   | ✅ Done     |
 | 🔹 CalcMate     | Calculator + Currency + BMI + Age counter                | ✅ Done     |
-| 🔹 WeSplit      | Tip splitter from 2 to 99 people                          | ✅ Done     |
-| 🔹 TempSm       | Temp. convert from celsuis to any                         | ✅ Done     |
+| 🔹 WeSplit      | Tip splitter from 2 to 99 people                         | ✅ Done     |
+| 🔹 TempSm       | Temp. convert from celsuis to any                        | ✅ Done     |
 | 🔹 Gtf          | Game of flags                                            | ✅ Done     |
 | 🔹 Weatherapp   | Weather fetch by API                                     | ✅ Done     |
 | 🔹 BetterRest   | Sleep time app with core ML                              | ✅ Done     |
@@ -47,8 +47,8 @@
 | 🔹 BookWorm     | Read books their Write here                              | ✅ Done     |
 | 🔹 Weather 2.0  | More advance UI with better colors                       | ✅ Done     |
 | 🔹 Swiftdata    | Swiftdata project in which i used sorting and filtering  | ✅ Done     |
-| 🔹 FocusTime    | You just grind i'll see for your POMODORO                 | ✅ Done     |
-| 🔹 InstFilter   | Click pictures, ill handle the filters                    | ✅ Done     |
+| 🔹 FocusTime    | You just grind i'll see for your POMODORO                | ✅ Done     |
+| 🔹 InstFilter   | Click pictures, ill handle the filters                   | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -58,7 +58,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#############-------] 75 / 100 Days
++ 100 Days of Swift       [#############-------] 77 / 100 Days
 + iOS App Builds          [###-----------------] 18 / 52 Apps
 + LeetCode Prep           [#-------------------] 1 / 20 Patterns
 + JavaScript Journey      [######--------------] 20 / 25 Days
