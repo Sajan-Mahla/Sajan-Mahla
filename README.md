@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `18/52 Apps done!`
+- ✅ App Built → `19/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Done`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -49,6 +49,7 @@
 | 🔹 Swiftdata    | Swiftdata project in which i used sorting and filtering  | ✅ Done     |
 | 🔹 FocusTime    | You just grind i'll see for your POMODORO                | ✅ Done     |
 | 🔹 InstFilter   | Click pictures, ill handle the filters                   | ✅ Done     |
+| 🔹 DiceRooler   | You rool the dice, swift will roll your fortune          | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -59,6 +60,6 @@
 
 ```diff
 + 100 Days of Swift       [#############-------] 79 / 100 Days
-+ iOS App Builds          [###-----------------] 18 / 52 Apps
++ iOS App Builds          [######--------------] 19 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Journey      [#############-------] 23 / 25 Days
