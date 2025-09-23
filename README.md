@@ -59,7 +59,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#################---] 80 / 100 Days
++ 100 Days of Swift       [#################---] 81 / 100 Days
 + iOS App Builds          [######--------------] 19 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
-+ JavaScript Learning     [##################--] 24 / 25 Days
++ JavaScript Learning     [###################-] 24 / 25 Days
