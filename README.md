@@ -63,3 +63,4 @@
 + iOS App Builds          [######--------------] 19 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
++ JavaScript Projects     [##------------------] 01 / 10 Projects
