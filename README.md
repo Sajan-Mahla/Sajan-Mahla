@@ -50,7 +50,7 @@
 | 🔹 FocusTime    | You just grind i'll see for your POMODORO                | ✅ Done     |
 | 🔹 InstFilter   | Click pictures, ill handle the filters                   | ✅ Done     |
 | 🔹 DiceRooler   | You rool the dice, swift will roll your fortune          | ✅ Done     |
-| 🔹 BucketList   | You mark the map. i'll mark the MAPKIT                   |✅ Done     |
+| 🔹 BucketList   | You mark the map. i'll mark the MAPKIT                   | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -64,4 +64,4 @@
 + iOS App Builds          [######--------------] 20 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
-+ JavaScript Projects     [##------------------] 01 / 10 Projects
++ JavaScript Projects     [#####---------------] 02 / 10 Projects
