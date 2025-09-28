@@ -51,6 +51,7 @@
 | 🔹 InstFilter   | Click pictures, ill handle the filters                   | ✅ Done     |
 | 🔹 DiceRooler   | You rool the dice, swift will roll your fortune          | ✅ Done     |
 | 🔹 BucketList   | You mark the map. i'll mark the MAPKIT                   | ✅ Done     |
+| 🔹 MagicPress   | Press the key and see the magic                          | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -60,8 +61,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#################---] 85 / 100 Days
-+ iOS App Builds          [######--------------] 20 / 52 Apps
++ 100 Days of Swift       [#################---] 86 / 100 Days
++ iOS App Builds          [######--------------] 21 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
 + JavaScript Projects     [#####---------------] 02 / 10 Projects
