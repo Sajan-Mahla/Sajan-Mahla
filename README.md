@@ -20,7 +20,7 @@
 ### 🍎 What I'm Doing Right Now
 
 - ✅ **100 Days of Swift** → `In Progress `
-- ✅ App Built → `21/52 Apps done!`
+- ✅ App Built → `22/52 Apps done!`
 - ✅ **Async Engineering** in Swift → `Done`
 - ✅ LeetCode Prep → `1 pattern done already`
 - ✅ Daily Roast, Interview Prep, GitHub Pushes → `No Breaks Allowed`
@@ -52,6 +52,7 @@
 | 🔹 DiceRooler   | You rool the dice, swift will roll your fortune          | ✅ Done     |
 | 🔹 BucketList   | You mark the map. i'll mark the MAPKIT                   | ✅ Done     |
 | 🔹 MagicPress   | Press the key and see the magic                          | ✅ Done     |
+| 🔹 Accessibilty | You spoke to SIRI, then she spoke to you                 | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -61,8 +62,8 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [#################---] 86 / 100 Days
-+ iOS App Builds          [######--------------] 21 / 52 Apps
++ 100 Days of Swift       [#################---] 87 / 100 Days
++ iOS App Builds          [######--------------] 22 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
 + JavaScript Projects     [#####---------------] 02 / 10 Projects
