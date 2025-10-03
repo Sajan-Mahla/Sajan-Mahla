@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajan Mahla</h1>
-<h3 align="center">🚀 An 18 y/o from Faridkot chasing one dream: APPLE 🍎</h3>
+<h3 align="center">🚀 A 19 y/o from Faridkot chasing one dream: APPLE 🍎</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajan666-ops&label=Profile%20views&color=0e75b6&style=flat" alt="sajan666-ops" />
@@ -62,7 +62,7 @@
 ### 📊 Apple Progress Tracker
 
 ```diff
-+ 100 Days of Swift       [##################--] 90 / 100 Days
++ 100 Days of Swift       [##################--] 91 / 100 Days
 + iOS App Builds          [######--------------] 22 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
