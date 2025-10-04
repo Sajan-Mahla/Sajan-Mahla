@@ -53,6 +53,7 @@
 | 🔹 BucketList   | You mark the map. i'll mark the MAPKIT                   | ✅ Done     |
 | 🔹 MagicPress   | Press the key and see the magic                          | ✅ Done     |
 | 🔹 Accessibilty | You spoke to SIRI, then she spoke to you                 | ✅ Done     |
+| 🔹 Hot Prospects| Confrences AHAA                                          | ✅ Done     |
 | 🛑 IP           | Launching Soon                                           | 🚧 Building |
 
 🔹 :- DONE
@@ -63,7 +64,7 @@
 
 ```diff
 + 100 Days of Swift       [##################--] 92 / 100 Days
-+ iOS App Builds          [######--------------] 22 / 52 Apps
++ iOS App Builds          [######--------------] 23 / 52 Apps
 + LeetCode Prep           [#-------------------] 01 / 20 Patterns
 + JavaScript Learning     [####################] 25 / 25 Days
 + JavaScript Projects     [#####---------------] 02 / 10 Projects
