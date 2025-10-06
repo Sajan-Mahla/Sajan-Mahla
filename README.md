@@ -48,7 +48,7 @@ let sajan = Developer(
     goal: "iOS Dev Engineer at Apple",
     deadline: "Feb 2026",
     current_status: [
-        "100 Days of Swift": "92/100 ⚡",
+        "100 Days of Swift": "94/100 ⚡",
         "iOS Apps": "23/52 🚀",
         "LeetCode Patterns": "1/20 🧠",
         "JavaScript": "25/25 ✅",
@@ -73,11 +73,7 @@ while !sajan.hasAppleOffer {
 </div>
 
 **Daily Routine:**
-- ⚡ **Morning:** LeetCode pattern + 1 problem
-- 🚀 **Afternoon:** iOS app development (SwiftUI/UIKit)
-- 🧠 **Evening:** 100 Days of Swift lessons
-- 💻 **Night:** GitHub commits, code reviews, learning
-
+GRIND GRIND GRIND
 ---
 
 ## 💎 23 Apps & Counting
@@ -130,7 +126,7 @@ while !sajan.hasAppleOffer {
 </div>
 
 ```
-🍎 100 Days of Swift       ████████████████████░░  92%
+🍎 100 Days of Swift       ████████████████████░░  94%
 📱 iOS App Portfolio       ███████████░░░░░░░░░░░  44%
 🧩 LeetCode Mastery        ██░░░░░░░░░░░░░░░░░░░░  05%
 ⚡ JavaScript Fluency      ██████████████████████  100%
