@@ -48,7 +48,7 @@ let sajan = Developer(
     goal: "iOS Dev Engineer at Apple",
     deadline: "Feb 2026",
     current_status: [
-        "100 Days of Swift": "94/100 ⚡",
+        "100 Days of Swift": "95/100 ⚡",
         "iOS Apps": "23/52 🚀",
         "LeetCode Patterns": "1/20 🧠",
         "JavaScript": "25/25 ✅",
@@ -126,7 +126,7 @@ GRIND GRIND GRIND
 </div>
 
 ```
-🍎 100 Days of Swift       ████████████████████░░  94%
+🍎 100 Days of Swift       ████████████████████░░  95%
 📱 iOS App Portfolio       ███████████░░░░░░░░░░░  44%
 🧩 LeetCode Mastery        ██░░░░░░░░░░░░░░░░░░░░  05%
 ⚡ JavaScript Fluency      ██████████████████████  100%
@@ -232,6 +232,6 @@ It's a **promise** to myself and everyone who believes in me.
 
 ![Snake animation](https://raw.githubusercontent.com/sajan666-ops/sajan666-ops/output/github-contribution-grid-snake-dark.svg)
 
-**Last Updated:** October 2025 | **Apps:** 23/52 | **Target:** Feb 2026 | **Days Left:** ~480
+**Last Updated:** 07 October 2025 | **Apps:** 23/52 | **Target:** Feb 2026 | **Days Left:** ~480
 
 </div>
