@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=23+iOS+Apps+Built;92%2F100+Days+of+Swift;Apple+Interview+Ready+by+Feb+2026" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=23+iOS+Apps+Built;92%2F100+Days+of+Swift;Apple+Interview+Ready" alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -14,7 +14,7 @@
 
 ## 🎯 Mission
 
-> Building production-ready iOS apps. Mastering Swift. Landing at Apple by Feb 2026.
+> Building production-ready iOS apps. Mastering Swift. Landing at Apple.
 
 **19 y/o from Faridkot** • **CS Undergrad** 
 
@@ -23,11 +23,11 @@
 ## 📊 Current Status
 
 ```
-iOS Apps             ████████████░░░░░░░░░░░░  24/52  (44%)
-100 Days of Swift    ████████████████████████  100/100 (100%)
-LeetCode Patterns    █░░░░░░░░░░░░░░░░░░░░░░░  1/20   (5%)
-JavaScript           ████████████████████████  25/25  (100%)
-JS Projects          ████░░░░░░░░░░░░░░░░░░░░  2/10   (20%)
+iOS Apps              24/52 
+Journey               DAY 100/Till APPLE 
+LeetCode Patterns     01/20   
+JavaScript            25/25 
+JS Projects           02/10   (20%)
 ```
 
 ---
@@ -90,16 +90,6 @@ JS Projects          ████░░░░░░░░░░░░░░░�
 
 ---
 
-## 🎯 Next Milestones
-
-- [ ] Complete 100 Days of Swift (100/100)
-- [ ] Build 52 production iOS apps (24/52)
-- [ ] Master 20 LeetCode patterns (1/20)
-- [ ] Contribute to open-source Swift projects
-- [ ] Ace mock Apple interviews
-- [ ] Land iOS Dev Engineer role by Feb 2026
-
----
 
 ## 📫 Connect
 
@@ -120,6 +110,6 @@ JS Projects          ████░░░░░░░░░░░░░░░�
 
 *"Every line of code is a step closer to Cupertino"*
 
-**Last Updated:** October 12, 2025 • **Target:** Feb 2026 
+**Last Updated:** October 12, 2025 • **Target:** Till APPLE 
 
 </div>
