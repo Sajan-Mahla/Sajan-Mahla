@@ -27,7 +27,7 @@ iOS Apps              24/52
 Journey               DAY 101/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
-JS Projects           02/10   (20%)
+JS Projects           02/10 
 ```
 
 ---
