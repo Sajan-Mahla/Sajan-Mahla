@@ -44,7 +44,7 @@ JS Projects           02/10
 | **SubtleShift** | Gradient changer | Models, SwiftUI |
 
 <details>
-<summary><b>View All 23 Apps →</b></summary>
+<summary><b>View All  Apps →</b></summary>
 
 1. Quote App • 2. CalcMate • 3. WeSplit • 4. TempSm • 5. GTF • 6. WeatherApp • 7. BetterRest • 8. WordScramble • 9. DictFict • 10. EduTainment • 11. iExpense • 12. ToDo • 13. Moonshot • 14. BookWorm • 15. Weather 2.0 • 16. SwiftData Demo • 17. FocusTime • 18. InstFilter • 19. DiceRoller • 20. BucketList • 21. MagicPress • 22. Accessibility  • 23. Hot Prospects • 24. MindMapr
 
