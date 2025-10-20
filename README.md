@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=25+iOS+Apps+Built;107+Days+of+Swift+Done;Apple+Interview+Ready" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=25+iOS+Apps+Built;108+Days+of+Swift+Done;Apple+Interview+Ready" alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              25/52 
-Journey               DAY 107/Till APPLE 
+Journey               DAY 108/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -110,6 +110,6 @@ JS Projects           02/10
 
 *"Last best time to grow the TREE was 20 years back, now its NOW"*
 
-**Last Updated:** October 19, 2025 • **Target:** Till APPLE 
+**Last Updated:** October 20, 2025 • **Target:** Till APPLE 
 
 </div>
