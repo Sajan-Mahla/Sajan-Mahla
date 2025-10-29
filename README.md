@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              26/52 
-Journey               DAY 116/Till APPLE 
+Journey               DAY 117/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -108,8 +108,8 @@ JS Projects           02/10
 
 <div align="center">
 
-*"im loving someone, the name is GRIND"*
+*"Constant efforts is in love, what im doing"*
 
-**Last Updated:** October 28, 2025 • **Target:** Till APPLE 
+**Last Updated:** October 29, 2025 • **Target:** Till APPLE 
 
 </div>
