@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=26+iOS+Apps+Built;116+Days+of+Swift+Done;Apple+Interview+Ready" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=26+iOS+Apps+Built.;117+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
