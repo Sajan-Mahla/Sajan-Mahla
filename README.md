@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              26/52 
-Journey               DAY 118/Till APPLE 
+Journey               DAY 119/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -108,8 +108,8 @@ JS Projects           02/10
 
 <div align="center">
 
-*"You know the GAME, Im the GAME."*
+*"Do OR Live..."*
 
-**Last Updated:** October 30, 2025 • **Target:** Till APPLE 
+**Last Updated:** October 31, 2025 • **Target:** Till APPLE 
 
 </div>
