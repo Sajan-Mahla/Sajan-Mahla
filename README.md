@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=27+iOS+Apps+Built.;127+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=28+iOS+Apps+Built.;128+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -23,8 +23,8 @@
 ## 📊 Current Status
 
 ```
-iOS Apps              27/52 
-Journey               DAY 127/Till APPLE 
+iOS Apps              28/52 
+Journey               DAY 128/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -110,6 +110,6 @@ JS Projects           02/10
 
 *"here LIES all soorows......."*
 
-**Last Updated:** November 8, 2025 • **Target:** Till APPLE 
+**Last Updated:** November 09, 2025 • **Target:** Till APPLE 
 
 </div>
