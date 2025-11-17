@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=29+iOS+Apps+Built.;135+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=29+iOS+Apps+Built.;136+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              29/52 
-Journey               DAY 135/Till APPLE 
+Journey               DAY 136/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -94,7 +94,7 @@ JS Projects           02/10
 
 ## 📫 Connect
 
-<div align="center">
+<div align="">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sajan-Mahla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajan-mahla/)
@@ -109,8 +109,8 @@ JS Projects           02/10
 
 <div align="center">
 
-*"Do best things NOW"*
+*"Set PRIORITIES, not just GOALS 🚀"*
 
-**Last Updated:** November 16, 2025 • **Target:** Till APPLE 
+**Last Updated:** November 17, 2025 • **Target:** Till APPLE 
 
 </div>
