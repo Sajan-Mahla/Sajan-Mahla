@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=30+iOS+Apps+Built.;139+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=31+iOS+Apps+Built.;140+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -23,8 +23,8 @@
 ## 📊 Current Status
 
 ```
-iOS Apps              29/52 
-Journey               DAY 139/Till APPLE 
+iOS Apps              31/52 
+Journey               DAY 140/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -47,7 +47,8 @@ JS Projects           02/10
 <summary><b>View All  Apps →</b></summary>
 
 1. Quote App • 2. CalcMate • 3. WeSplit • 4. TempSm • 5. GTF • 6. WeatherApp • 7. BetterRest • 8. WordScramble • 9. DictFict • 10. EduTainment • 11. iExpense • 12. ToDo • 13. Moonshot • 14. BookWorm • 15. Weather 2.0 • 16. SwiftData Demo • 17. FocusTime • 18. InstaFilter • 19. DiceRoller • 20. BucketList • 21. MagicPress • 22. Accessibility  • 23. Hot Prospects • 24. MindMapr • 25. Colorify • 26. CryptoView
-• 27. Weather Combine
+• 27. Weather Combine • 28. GithubUser
+
 
 </details>
 
@@ -111,6 +112,6 @@ JS Projects           02/10
 
 *"Set PRIORITIES, not just GOALS 🚀"*
 
-**Last Updated:** November 20, 2025 • **Target:** Till APPLE 
+**Last Updated:** November 21, 2025 • **Target:** Till APPLE 
 
 </div>
