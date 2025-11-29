@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              31/52 
-Journey               DAY 147/Till APPLE 
+Journey               DAY 148/Till APPLE 
 LeetCode Patterns     01/20   
 JavaScript            25/25 
 JS Projects           02/10 
@@ -112,6 +112,6 @@ JS Projects           02/10
 
 *"WHO they 🚀"*
 
-**Last Updated:** November 28, 2025 • **Target:** Till APPLE 
+**Last Updated:** November 29, 2025 • **Target:** Till APPLE 
 
 </div>
