@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              31/52 
-Journey               DAY 160/Till APPLE 
+Journey               DAY 161/Till APPLE 
 LeetCode Patterns     In Progress   
 JavaScript            25/25 
 JS Projects           02/10 
