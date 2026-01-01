@@ -25,7 +25,7 @@
 ```
 iOS Apps              31/52 
 Journey               DAY 181/Till APPLE 
-DSA                   LINK LIST, SORTING   
+DSA                   Linked List, Sorting  
 JavaScript            25/25 
 JS Projects           02/10 
 ```
