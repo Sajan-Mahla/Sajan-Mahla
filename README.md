@@ -4,7 +4,7 @@
 
 **iOS Developer • Swift Enthusiast • Building My Way to Apple 🍎**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=31+iOS+Apps+Built.;239+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=31+iOS+Apps+Built.;240+Days+of+Swift+Done.;One+day+i'll+be+Apple+Interview+Ready." alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sajan-Mahla&color=FF3B30&style=flat-square)](https://github.com/Sajan-Mahla)
 
@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              31/52 
-Journey               DAY 239/Till APPLE 
+Journey               DAY 240/Till APPLE 
 DSA                   Linked List, Sorting, Heap, (Dijkstra’s Algorithm, Bellman-Ford Algorithm, Floyd Warshall Algorithm)
 JavaScript            25/25 
 JS Projects           10/10 
@@ -112,6 +112,6 @@ JS Projects           10/10
 
 *"Maintain your STREAK bro, we'll take care of RELATIONSHIP later 🚀"*
 
-**Last Updated:** February 28, 2026 • **Target:** Till APPLE 
+**Last Updated:** March 1, 2026 • **Target:** Till APPLE 
 
 </div>
