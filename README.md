@@ -27,7 +27,8 @@ iOS Apps              31/52
 Journey               DAY 243/Till APPLE 
 DSA                   Linked List, Sorting, Heap, (Dijkstra’s Algorithm, Bellman-Ford Algorithm, Floyd Warshall Algorithm)
 JavaScript            25/25 
-JS Projects           10/10 
+JS Projects           10/10
+TypeScript            01/Till Course end
 ```
 
 ---
