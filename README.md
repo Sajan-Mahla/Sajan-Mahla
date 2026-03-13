@@ -24,7 +24,7 @@
 
 ```
 iOS Apps              31/52 
-Journey               DAY 251/Till APPLE 
+Journey               DAY 252/Till APPLE 
 DSA                   Linked List, Sorting, Heap, (Dijkstra’s Algorithm, Bellman-Ford Algorithm, Floyd Warshall Algorithm)
 JavaScript            25/25 
 JS Projects           10/10
@@ -113,6 +113,6 @@ TypeScript            02/Till Course end
 
 *"Maintain your STREAK bro, we'll take care of RELATIONSHIP later 🚀"*
 
-**Last Updated:** March 12, 2026 • **Target:** Till APPLE 
+**Last Updated:** March 13, 2026 • **Target:** Till APPLE 
 
 </div>
