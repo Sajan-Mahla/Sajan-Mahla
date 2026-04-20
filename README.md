@@ -1,4 +1,4 @@
-## sorry, i sttopped things. BUT now will stop a that offer letter from APPLE. PLEASE FORGIVE ME 💔
+## sorry, i stopped things. BUT now will stop a that offer letter from APPLE. PLEASE FORGIVE ME 💔
 <div align="center">
 
 *"Maintain your STREAK bro, we'll take care of RELATIONSHIP later 🚀"*
